@@ -1,0 +1,49 @@
+﻿City,Name,Age,Group,Pre,Post0,Post30,Post60,StressScale,Gender,Age2,AnxiousScale,DepressedScale,FavGenre,HeavyPref,Instruments,Sleep,Smoke
+Arcadia,Mai Edwards,46,-1,0.11,0.073,0.084,0.08,5,f,42,2,2,Country,Country,Flute and harp,8,No
+Reading,Milana Maharaj,30,-1,0.179,0.15,0.157,0.152,2,f,30,3,1.5,Classical,Classical,Piano,8.75,No
+Reading,Kirk Ibsen,42,1,0.19,0.231,0.186,0.199,2.5,m,39,2.5,1,Country,Country,Cello and piano,7.75,No
+Kiyobico,Helsa Olsen,32,1,0.155,0.155,0.12,0.157,4.5,f,32,4.5,1.5,Dance,Dance,Cello and piano,8.5,No
+Biruwa,Grace Brown,25,0,0.216,0.204,0.212,0.228,6,f,25,7,3,Dance,Dance,Violin,7.75,No
+Arcadia,Erin Price,42,0,0.273,0.302,0.248,0.261,5.5,f,42,4.5,5,Country,Country,Violin and Piano,8,No
+Takazaki,Anais Suzuki,52,0,0.112,0.115,0.098,0.117,2.5,f,50,2,3.5,Country,Country,Violin and Piano,8.5,No
+Kiyobico,Sakura Morris,51,1,0.179,0.141,0.136,0.158,3,f,51,3,1.5,Heavy Metal,Heavy Metal,"Piano, trumpet and harp",8,No
+Hayarano,Hakan Jensen,59,-1,0.187,0.153,0.15,0.165,3,m,54,3.5,1.5,Classical,Classical,Flute and harp,7.75,No
+Hayarano,Percy Lemaitre,26,0,0.1,0.14,0.146,0.108,4.5,m,26,3.5,4.5,Country,Country,Guitar and piano,8,No
+Arcadia,Clara Lefevre,26,-1,0.186,0.19,0.187,0.159,5,f,26,6,2,Dance,Dance,"Guitar, cello and piano",8,No
+Arcadia,Kathy Roussel,36,-1,0.202,0.185,0.184,0.178,3.5,f,32,2,4,Country,Country,Violin,7.5,No
+Biruwa,Annabelle Abel,47,0,0.102,0.131,0.132,0.108,2.5,f,41,2.5,2,Dance,Dance,"Flute, guitar, violin, cello and piano",8.5,No
+Arcadia,Colin Kimura,22,-1,0.191,0.207,0.227,0.209,4,m,22,5,1.5,Dance,Dance,Guitar,7.25,No
+Biruwa,Raum Bager,27,0,0.197,0.174,0.182,0.166,6.5,m,27,5.5,1.5,Heavy Metal,Heavy Metal,Piano,7.75, No
+Arcadia,Jack Jackson,27,-1,0.225,0.222,0.223,0.203,4.5,m,27,5.5,3,Heavy Metal,Heavy Metal,None,7,Yes
+Reading,Mizuki Wilson,41,-1,0.204,0.213,0.196,0.184,3,f,36,3.5,2.5,Dance,Dance,Flute and piano,7.5,No
+Arcadia,Sarah Suzuki,21,1,0.243,0.224,0.205,0.219,5,f,22,3,3,Heavy Metal,Heavy Metal,Violin and Piano,8.25,No
+Akkeshi,Leif Jensen,31,1,0.148,0.143,0.153,0.134,6,m,31,6,2,Country,Country,None,8.5,No
+Reading,Darrin Mackay,48,1,0.27,0.261,0.269,0.245,7,m,48,8,2,Dance,Dance,Piano,8.5,No
+Arcadia,Kimitoshi Hasegawa,34,0,0.249,0.25,0.253,0.238,6.5,m,34,5.5,3,Classical,Classical,None,7.5,No
+Arcadia,Erik Eklund,37,-1,0.205,0.23,0.225,0.186,3.5,m,37,4.5,1.5,Classical,Classical,Piano,8,No
+Arcadia,Molly Sato,56,0,0.216,0.192,0.199,0.188,3,f,56,2,3,Classical,Classical,None,8,No
+Arcadia,Maximilian Taylor,30,1,0.102,0.135,0.134,0.119,6,m,30,6,2.5,Classical,Classical,Piano,8.5,No
+Shinobi,Raine Hall,35,1,0.157,0.128,0.128,0.141,5.5,m,35,4.5,2,Classical,Classical,None,8.25,No
+Akkeshi,Sigrid Lund,31,1,0.159,0.152,0.16,0.144,5.5,f,31,6.5,2,Classical,Classical,"Flute, cello and piano",7.5,No
+Hayarano,Romain Leroux,59,0,0.136,0.101,0.112,0.108,4.5,m,59,4,2,Classical,Classical,None,8.25,No
+Arcadia,Ruddy Marin,25,-1,0.117,0.139,0.129,0.085,4.5,m,22,5.5,1,Dance,Dance,Guitar,7,No
+Reading,Georgina Brown,26,-1,0.193,0.239,0.246,0.2,5.5,f,26,7,2.5,Heavy Metal,Heavy Metal,Cello,8.5,No
+Kiyobico,Shin McCarthy,26,0,0.218,0.229,0.206,0.192,5.5,m,26,5.5,2,Country,Country,Flute and piano,8.25,Yes
+Shinobi,Umao Endo,21,1,0.164,0.182,0.175,0.14,4.5,m,21,5.5,1.5,Country,Country,Piano,7.5,No
+Arcadia,Jun Morris,20,0,0.204,0.215,0.189,0.169,5,m,20,5.5,3.5,Classical,Classical,None,8.5,No
+Akkeshi,Eileen Macdonald,43,1,0.22,0.183,0.17,0.195,5,f,43,6,2.5,Dance,Dance,Piano,8.25,No
+Akkeshi,Summer Edwards,48,0,0.209,0.229,0.251,0.218,3.5,f,48,2,3,County,County,None,8.25,No
+Biruwa,Evan Hall,53,-1,0.159,0.17,0.175,0.167,2.5,m,53,1.5,3,Dance,Dance,None,8.25,No
+Reading,Faye Grant,46,-1,0.156,0.198,0.189,0.152,4,f,46,5.5,4,Heavy Metal,Heavy Metal,None,7.75,No
+Arcadia,Shuko Matsui,41,1,0.196,0.178,0.192,0.176,3,f,41,3.5,1.5,Classical,Classical,None,7,No
+Kiyobico,Albert Berg,48,0,0.197,0.188,0.196,0.178,2.5,m,48,1,5.5,Classical,Classical,Guitar,8,No
+Arcadia,Anika Bhasin,45,0,0.255,0.238,0.259,0.207,6.5,f,45,5.5,4,Country,Country,"Guitar, cello, piano and trumpet",7.5,No
+Arcadia,Ellen Connolly,36,0,0.306,0.272,0.279,0.257,6,f,33,5.5,3.5,Dance,Dance,Flute and violin,7.25,No
+Hayarano,Denis Hardy,20,0,0.153,0.16,0.184,0.158,3,m,20,3.5,2,Country,Country,Piano,8.5,No
+Nelson,Leif Ibsen,31,-1,0.192,0.179,0.173,0.194,4,m,31,3,2,Dance,Dance,Cello and piano,8,No
+Nelson,Klemens Ernst,49,-1,0.157,0.191,0.183,0.135,6,m,49,4.5,2.5,Country,Country,Guitar and piano,7.5,No
+Reading,Anzu Nishimura,43,1,0.232,0.206,0.215,0.207,6.5,f,43,4.5,1.5,Country,Country,Piano,8.75,No
+Arcadia,Jamie White,33,1,0.28,0.31,0.33,0.256,7,m,33,6.5,1.5,Dance,Dance,"Flue, guitar and piano",9,No
+Kiyobico,Cameron Stewart,49,-1,0.156,0.181,0.186,0.157,3,m,49,3,3,Country,Country,None,8.5,No
+Takazaki,Rupert Kimura,53,1,0.126,0.126,0.145,0.149,0.11,m,53,3.5,2.5,Classical,Classical,None,8,No
+Nelson,Paul Carlsen,51,1,0.125,0.114,0.124,0.116,3.5,m,51,2,2,Classical,Classical,None,7.5,Yes
